@@ -1,6 +1,6 @@
 {
   "name": "abel-fe-commitlint-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "git commit 规范",
   "keywords": [
     "commitlint"
