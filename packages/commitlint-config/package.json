@@ -1,0 +1,22 @@
+{
+  "name": "abel-fe-commitlint-config",
+  "version": "0.0.0",
+  "description": "git commit 规范",
+  "keywords": [
+    "commitlint"
+  ],
+  "author": "abel",
+  "homepage": "https://github.com/git123-ai/fe-spec#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git123-ai/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/git123-ai/fe-spec/issues"
+  },
+  "dependencies": {
+    "conventional-changelog-conventionalcommits": "^7.0.2"
+  }
+}

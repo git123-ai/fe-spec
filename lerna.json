@@ -1,0 +1,15 @@
+{
+  "useWorkspace" :true,
+  "version": "0.0.0",
+  "npmClient": "pnpm",
+  "command":{
+    "publish":{
+      "npmClient" :"npm",
+      "message": "chore(relese): publish %s",
+      "registry": "https://registry.npmjs.org"
+    }
+  },
+  "packages": [
+    "packages/*"
+  ]
+}

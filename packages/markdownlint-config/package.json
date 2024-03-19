@@ -1,0 +1,19 @@
+{
+  "name": "abel-fe-markdownlint-config",
+  "version": "0.0.0",
+  "description": " markdown规范",
+  "keywords": [
+    "markdownlint"
+  ],
+  "author": "abel",
+  "homepage": "https://github.com/git123-ai/fe-spec#readme",
+  "license": "ISC",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git123-ai/fe-spec.git"
+  },
+  "bugs": {
+    "url": "https://github.com/git123-ai/fe-spec/issues"
+  }
+}
